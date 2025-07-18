@@ -23,6 +23,9 @@ A fast-paced 2D car racing game built using Java and Swing/AWT. Dodge obstacles,
 - ← Left Arrow: Move Left  
 - → Right Arrow: Move Right  
 
+
+Github link : https://ranjithloozer.github.io/CarGame/
+
 📂 How to Run
 
 1. Clone or download the project:
@@ -30,4 +33,5 @@ A fast-paced 2D car racing game built using Java and Swing/AWT. Dodge obstacles,
    git clone https://github.com/yourusername/car-racing-game-java.git
 
 javac *.java
+
 java CarRacingGame
